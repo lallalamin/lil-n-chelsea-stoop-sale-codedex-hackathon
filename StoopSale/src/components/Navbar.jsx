@@ -9,8 +9,8 @@ export const Navbar = () => {
       <ul className='nav-menu'>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
-        <li><a href="#where">Where</a></li>
         <li><a href="#when">When</a></li>
+        <li><a href="#location">Location</a></li>  
       </ul>
       <div className='check-out'>
         Come check out!
