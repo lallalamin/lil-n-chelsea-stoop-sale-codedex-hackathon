@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 170px;
+    padding: 5px 0px;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 15px;
+}
+
+.nav-menu li{
+    transition: 0.5s;
+}
+
+.nav-menu li:hover{
+    transform: scale(1.05);
+}
+
+.check-out{
+    padding: 15px 30px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #abbfe0 0.36%, #5478b8 102%);
+    font-size: 16px;
+    color: white;
+}
+
+.img-size{
+    width: 10%;
+}
