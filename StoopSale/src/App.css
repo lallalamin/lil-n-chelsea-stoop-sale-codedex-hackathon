@@ -1,8 +1,29 @@
-.navbar-bg{
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.navbar-bg {
   background-color: white;
 }
 
-*{
-  padding: 0;
-  margin: 0;
+.main-content {
+  flex: 1;
+}
+
+/* Ensure footer is always at the bottom */
+footer {
+  background-color: #f1f1f1;
+  padding: 10px 0;
+  text-align: center;
 }

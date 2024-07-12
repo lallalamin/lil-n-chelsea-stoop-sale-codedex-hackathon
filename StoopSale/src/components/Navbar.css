@@ -1,3 +1,6 @@
+*{
+    font-family: 'outfit';
+}
 .navbar{
     display: flex;
     align-items: center;
