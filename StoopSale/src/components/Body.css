@@ -28,7 +28,7 @@ ul {
     padding: 0; /* Removes default padding */
 }
 
-#about, #when, #location, #end {
+#about, #when, #where, #end {
     margin: 150px 0; /* Adds top and bottom margin */
 }
 

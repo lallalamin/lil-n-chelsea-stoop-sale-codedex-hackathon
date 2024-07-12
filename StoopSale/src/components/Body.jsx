@@ -37,7 +37,7 @@ const Body = () => {
         <h2>📅 When is it?</h2>
         <p>Mark your calendars for <span><strong>July 12th, 12PM ~ 2PM</strong></span>.</p>
       </div>
-      <div id='location'>
+      <div id='where'>
         <h2>📍 Where to find us?</h2>
         <p>We're conveniently located at the bustling corner of Court Street and 2nd Avenue, in the vibrant South Brooklyn neighborhood. </p>
         <div id='map' className='map'>
